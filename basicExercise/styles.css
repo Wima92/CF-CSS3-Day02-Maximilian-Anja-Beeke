@@ -2,7 +2,8 @@
 	width: 800px;
 	margin: auto;
 	/* margin: auto; centers all content inside the element */
-	box-shadow: 10px 0px 25px grey;
+	/*box-shadow: 10px 0px 25px grey; */
+	box-shadow: 10px 0px 5px grey, -10px 0px 5px grey, 0px 5px 5px white, 0px -5px 5px white; 
 	padding-left: 50px;
 	padding-right: 50px;
 }
