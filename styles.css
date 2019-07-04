@@ -14,4 +14,21 @@ p {
 li {
 	color: #707070;
 }
+header {
+	text-align: center;
+}
+h1 {
+	color: #DB0038;
 
+}
+h2 {
+	color: #DB3998A3;
+}
+h3 {
+	color: #474747;
+}
+.hero { 
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+ }
