@@ -1,0 +1,17 @@
+.container {
+	width: 800px;
+	margin: auto;
+	/* margin: auto; centers all content inside the element */
+	box-shadow: 10px 0px 25px grey;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+p {
+	color: #707070;
+}
+
+li {
+	color: #707070;
+}
+
